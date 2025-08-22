@@ -1,30 +1,40 @@
-# Foodshare prototype
+ # 🍴 ReFed Connect - Food Donation Platform  
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+ReFed Connect is a web application designed to reduce food waste by connecting **food donors** (restaurants, individuals, and events) with **NGOs and organizations** that distribute surplus food to people in need.  
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/jays-projects-95d4497c/v0-foodshare-prototype)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/DB4Up6Jrcjy)
+The platform ensures efficient donation management, real-time notifications, and location-based matching of donors and receivers.  
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## 🚀 Features  
 
-## Deployment
+- 👤 **User Authentication** – Secure login and signup for donors & NGOs.  
+- 📝 **Profiles & Dashboards** – Manage donor and NGO accounts.  
+- 📍 **Location Services** – Match food donors with nearby NGOs.  
+- 🔔 **Real-time Notifications** – Get notified when donations are available.  
+- 🍽 **Donation Management** – Create, track, and manage food donations.  
+- 📊 **Analytics** – Track donations and impact.  
 
-Your project is live at:
+---
 
-**[https://vercel.com/jays-projects-95d4497c/v0-foodshare-prototype](https://vercel.com/jays-projects-95d4497c/v0-foodshare-prototype)**
+## 🛠 Tech Stack  
 
-## Build your app
+**Frontend:**  
+- HTML, CSS, TailwindCSS  
+- JavaScript, React.js  
 
-Continue building your app on:
+**Backend:**  
+- Node.js, Express.js  
 
-**[https://v0.app/chat/projects/DB4Up6Jrcjy](https://v0.app/chat/projects/DB4Up6Jrcjy)**
+**Database:**  
+- MongoDB (NoSQL)  
 
-## How It Works
+**Other Tools:**  
+- REST APIs  
+- JWT Authentication  
+- Location & Geocoding Services  
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+---
+
+## 📂 Project Structure  
+
